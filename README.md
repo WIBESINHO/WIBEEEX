@@ -6,7 +6,7 @@ Pasos de instalación en termux
     ```sh
     git clone https://github.com/Eliasar54/YuGi-BOT-1.2.git
     ```
-2. navega al ek bot
+2. navega al el bot
    ```sh
    cd YuGi-BOT-1.2
    ```     
