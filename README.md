@@ -5,27 +5,30 @@ Pasos de instalación en termux
 
     ```sh
     git clone https://github.com/Eliasar54/YuGi-BOT-1.2.git
-cd YuGi-BOT-1.2
     ```
+2. navega al ek bot
+   ```sh
+   cd YuGi-BOT-1.2
+   ```     
 
-2. Desconprime los archivos:
+3. Desconprime los archivos:
 
     ```sh
     unzip '*.zip'
     ```
-4. [Opcional pero recomendable]:
+5. [Opcional pero recomendable]:
 
     ```sh
     rm *.zip
     ```
 
-5. Descarga los módulos:
+6. Descarga los módulos:
 
     ```sh
     npm install
     ```
 
-6. Iniciar el bot:
+7. Iniciar el bot:
 
     ```sh
     npm start
