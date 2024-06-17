@@ -6,12 +6,17 @@ Pasos de instalación en termux
     ```sh
     git clone https://github.com/Eliasar54/YuGi-BOT-1.2.git
     ```
-2. navega al el bot
+    2. Actualiza e instala los paquetes necesarios:
+    ```sh
+    apt update && apt upgrade && pkg update && pkg upgrade
+    pkg install bash libwebp git nodejs ffmpeg wget imagemagick yarn -y
+    ```
+3. navega al el bot
    ```sh
    cd YuGi-BOT-1.2
    ```     
 
-3. Desconprime los archivos:
+4. Desconprime los archivos:
 
     ```sh
     unzip '*.zip'
