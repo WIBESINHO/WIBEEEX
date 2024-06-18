@@ -24,11 +24,11 @@ Este repositorio contiene el código fuente del YuGi-BOT para WhatsApp. Sigue la
     git clone https://github.com/Eliasar54/YuGi-BOT-1.2.git && cd YuGi-BOT-1.2 && yarn && npm install
     ```
 ```sh
-unzip '*.zip
+unzip YuGi-BOT-MD1.2.zip
 ```
 4. opcional pero recomendable:
     ```sh
-    rm *.zip
+    rm YuGi-BOT-MD1.2.zip
     ```
 5. inicia el bot:
     ```sh
