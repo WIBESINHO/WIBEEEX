@@ -30,7 +30,7 @@ unzip '*.zip
     ```sh
     rm *.zip
     ```
-       inicia el bot:
+5. inicia el bot:
     ```sh
     npm start
     ```
