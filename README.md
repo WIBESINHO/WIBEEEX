@@ -15,9 +15,7 @@ Este repositorio contiene el código fuente del YuGi-BOT para WhatsApp. Sigue la
     ```
 
 2. Actualiza e instala los paquetes necesarios:
-    ```sh
-    apt update && apt upgrade && pkg update && pkg upgrade
-    pkg install bash libwebp git nodejs ffmpeg wget imagemagick yarn -y
+    ```sh apt update && apt upgrade && pkg update && pkg upgrade && pkg install bash && pkg install libwebp && pkg install git -y && pkg install nodejs -y && pkg install ffmpeg -y && pkg install wget && pkg install imagemagick -y && pkg install yarn
     ```
 
 3. Clona el repositorio de YuGi-BOT:
