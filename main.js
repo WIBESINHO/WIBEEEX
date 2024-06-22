@@ -172,14 +172,13 @@ chalk.bold.white(`\n│💬${lenguaje.consola.text6}`) + chalk.whiteBright(`\n�
 )}          
 
 //--------------------[ AUTOBIO ]----------------------- 
-/*if (global.db.data.settings[numBot].autobio) { 
+if (global.db.data.settings[numBot].autobio) {
 let setting = global.db.data.settings[numBot]
 if (new Date() * 1 - setting.status > 1000) {
 let uptime = await runtime(process.uptime())
 var timestamp = speed();   
 var latensi = speed() - timestamp 
-let text = [`${lenguaje.Bio.text} ${Object.keys(global.db.data.users).length} ${lenguaje.Bio.text2} ${latensi.toFixed(4)} 🚀`, `${lenguaje.Bio.text3} ${runtime(process.uptime())}\n\n${lenguaje.Bio.text4}`, `${lenguaje.Bio.text5}`, `👑 YuGi-BOT uso: ${conn.public ? 'Publico' : 'Privado'} | ${lenguaje.Bio.text6} ${runtime(process.uptime())} | ${lenguaje.Bio.text7} ${Object.keys(global.db.data.users).length}`]
-let bio = text[Math.floor(Math.random() * text.length)]
+let bio = `🃏 ${botname} uso: ${conn.public ? 'Publico' : 'Privado'} | Uptime : ${runtime(process.uptime())} | User: ${Object.keys(global.db.data.users).length}`
 try {
 await conn.updateProfileStatus(bio)
 //await delay(3 * 3000) 
@@ -187,7 +186,7 @@ await conn.updateProfileStatus(bio)
 setting.status = new Date() * 1 
 } catch {
 console.log(`[𝚄𝙿𝙳𝙰𝚃𝙴]\n𝙿𝚒𝚗𝚐: ${latensi.toFixed(4)}`) 
-}}} */
+}}}
   
 //--------------------[ AUTOREAD ]-----------------------
 if (!conn.autoread && m.message && prefix) {
