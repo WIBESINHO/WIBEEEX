@@ -2,6 +2,33 @@
 
 Este repositorio contiene el código fuente del YuGi-BOT para WhatsApp. Sigue las instrucciones a continuación para instalar y configurar el bot.
 
+<h1 align="center">
+  <a href="https://https://github.com/Eliasar54/YuGi-BOT-1.2.git">
+    <img src="https://raw.githubusercontent.com/eliasar 54/https://github.com/Eliasar54/YuGi-BOT-1.2.git/main/assets/logo.png" alt="YuGi-BOT" width="200">
+  </a>
+</h1>
+
+<h1 align="center">
+  <span style="color:#ff0000;animation:pulse 2s infinite">YuGi-BOT mejorado</span>
+  <span style="color:#7b1fa2;animation:pulse 2s infinite">animación</span>
+</h1>
+
+<h2 align="center">YuGi-BOT el mejor bot</h2>
+
+<style>
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.2);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+</style>
+
 ## Requisitos previos
 
 - Termux instalado en tu dispositivo Android.
