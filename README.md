@@ -4,7 +4,7 @@
   </a>
 </p>
 
-![Imagen de GitHub](https://github.com/Eliasar54/YuGi-BOT-1.2/blob/main/OIG2.Ash9hOo479aLGCZU2YQR%20(1).jpg)
+![YuGi-BOT](https://github.com/Eliasar54/YuGi-BOT-1.2/blob/main/OIG2.Ash9hOo479aLGCZU2YQR%20(1).jpg)
 
 
 # YuGi-BOT-MD
@@ -34,7 +34,8 @@ Este repositorio contiene el código fuente del YuGi-BOT para WhatsApp. Sigue la
    ```
 4. desconprime los archivos
     ```bash
-    unzip 'YuGi-BOT 1.3.zip'     
+    unzip 'YuGi-BOT 1.3.zip'
+    ```
 5. opcional pero recomendable:
     ```bash
     rm YuGi-BOT 1.3.zip
@@ -73,7 +74,7 @@ Para obtener un nuevo código QR, sigue estos pasos:
     ```sh
     npm start
     ```
-#quiero usar los comandos de creador que ago comando para lograr esto
+# quiero usar los comandos de creador que ago comando para lograr esto
 ```sh
 sed -i 's/12345678/NUEVO_NUMERO_DE_TELEFONO/g' settings.js
 ```
