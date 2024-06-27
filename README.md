@@ -34,8 +34,7 @@ Este repositorio contiene el código fuente del YuGi-BOT para WhatsApp. Sigue la
    ```
 4. desconprime los archivos
     ```bash
-    unzip YuGi-BOT 1.3.zip
-       
+    unzip 'YuGi-BOT 1.3.zip'     
 5. opcional pero recomendable:
     ```bash
     rm YuGi-BOT 1.3.zip
