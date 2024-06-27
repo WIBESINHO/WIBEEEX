@@ -74,5 +74,8 @@ Para obtener un nuevo código QR, sigue estos pasos:
     ```sh
     npm start
     ```
-
+#quiero usar los comandos de creador que ago comando para lograr esto
+```sh
+sed -i 's/12345678/NUEVO_NUMERO_DE_TELEFONO/g' settings.js
+```
 
