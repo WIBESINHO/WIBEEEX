@@ -6,4 +6,4 @@
 
 ![Imagen de GitHub](https://github.com/Eliasar54/YuGi-BOT-1.2/blob/main/OIG2.Ash9hOo479aLGCZU2YQR%20(1).jpg)
 
-Repositorio: [https://github.com/Eliasar54/YuGi-BOT-1.2.git](https://github.com/Eliasar54/YuGi-BOT-1.2.git)
+
