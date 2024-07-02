@@ -1,4 +1,4 @@
-Fue un placer crear este bot pero me despido ya no bolere a encender este bot ni a actualizar
+Fue un placer crear este bot pero me despido ya no volveré a encender este bot ni a actualizar
  
  <p align="center">
   <a href="https://github.com/tu-usuario/tu-repositorio">
