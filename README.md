@@ -6,7 +6,7 @@ Fue un placer crear este bot pero me despido ya no volveré a encender este bot 
   </a>
 </p>
 
-![WIBE-BOT](https://github.com/wibesinho/WIBE-BOT-1.2/blob/main/OIG2.Ash9hOo479aLGCZU2YQR%20(1).jpg)
+![YUGI-BOT](https://github.com/eliazar54/YUBI-BOT-1.2/blob/main/OIG2.Ash9hOo479aLGCZU2YQR%20(1).jpg)
 
 
 # WIBE-BOT-MD
