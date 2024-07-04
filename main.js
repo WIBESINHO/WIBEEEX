@@ -1,5 +1,5 @@
 //Código desde cero y comentarios hecho por: 
-// @gata_dios   
+// @WIBESINHO  
 // @Skidy89  
 // @elrebelde21          
                                      
@@ -790,7 +790,7 @@ this.confirm[m.sender.split('@')[0]] = { sender: m.sender, to: who, message: m, 
 break
       
 case 'tienda': case 'tiendas': 
- conn.sendButton(m.chat, `꧁🃏𝐘𝐮𝐆𝐢-𝐁𝐎𝐓🃏 𝐒𝐓𝐎𝐑𝐄🃏꧂
+ conn.sendButton(m.chat, `꧁🃏WIBESINHO-BOT🃏 𝐒𝐓𝐎𝐑𝐄🃏꧂
 █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
 █-----╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗-----█
 █-----║║║╠─║─║─║║║║║╠─-----█
@@ -873,7 +873,7 @@ PRECIO:5000,000
 ◆ ▬▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬▬ ◆
 
 😃𝐆𝐫𝐚𝐜𝐢𝐚𝐬 𝐩𝐨𝐫 𝐯𝐢𝐬𝐢𝐭𝐚𝐫 𝐥𝐚😃
-🃏𝐘𝐮𝐆𝐢-𝐁𝐎𝐓🃏 𝐒𝐓𝐎𝐑𝐄🃏
+🃏WIBESINHO-BOT🃏 𝐒𝐓𝐎𝐑𝐄🃏
 💳𝑽𝑼𝑬𝑳𝑽𝑨 𝑷𝑹𝑶𝑵𝑻𝑶.💳`, botname, null, [['IR A MI ARTICULO', '.misarticulos'], ['VER TOP MILLONARIO', '.millonarios'], ['COMPRAR ADMINS', '.buyAdmins 1']], null, null, m)
 m.react('🛒')
 break
