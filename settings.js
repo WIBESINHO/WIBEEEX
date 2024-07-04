@@ -6,15 +6,15 @@ const chalk = require('chalk')
 const { en, es, ar, id, pt, rs} = require('./libs/idiomas/total-idiomas.js') 
 
 //---------[ PROPIETARIO/OWNER ]---------
-global.owner = [["50582340051", "Owner", true], ["51929838430"], ["12345678"]]
+global.owner = [["50582340051", "Owner", true], ["51929838430"], ["18293733257"]]
 //remplaza 123456789 por Tu número de teléfono
 global.mods = []
 global.premium = []  
 global.blockList = []  
 
 //---------[ NOMBRE/INFO ]---------
-global.botname = "𝐘𝐮𝐆𝐢-𝐁𝐎𝐓[𝐌𝐃]"
-global.wm = '𝐘𝐮𝐆𝐢-𝐁𝐎𝐓[𝐌𝐃] 🌐'
+global.botname = "WIBE-𝐁𝐎𝐓[𝐌𝐃]"
+global.wm = 'WIBE-𝐁𝐎𝐓[𝐌𝐃] 🌐'
 global.vs = '1.3'
 
 //Función beta : escribe el número que quiere que sea bot para que mande el Código de 8 digitos
@@ -74,7 +74,7 @@ global.APIKeys = {
 };
  
 //---------[ STICKERS ]---------
-global.packname = "𝐘𝐮𝐆𝐢-𝐁𝐎𝐓[𝐌𝐃] |creador ELIASAR YT"
+global.packname = "WIBE-𝐁𝐎𝐓[𝐌𝐃] |creador WILBERT MD"
 global.author = `${vs}`
  
 //---------[ IMAGEN ]---------
@@ -84,23 +84,23 @@ global.imagen3 = fs.readFileSync('./media/menu3.jpg')
 global.noperfil = fs.readFileSync('./media/sinfoto.jpg')
 
 //---------[ ENLACES ]---------
-global.md = 'https://github.com/Eliasar54/YuGi-BOT-1.2.git'
-global.yt = 'https://www.youtube.com/@Eliasar_yt'
-global.tiktok = 'https://www.tiktok.com/@eliasar_yt?_t=8mjJpoJfOBK&_r=1'
+global.md = 'https://github.com/wilbert/WIBE-BOT-1.2.git'
+global.yt = 'https://www.youtube.com/@wibesinho_01'
+global.tiktok = 'https://www.tiktok.com/@wibesinho_01?_t=8mjJpoJfOBK&_r=1'
 global.fb = 'https://www.facebook.com/profile.php?id=100087710532984&mibextid=kFxxJD'
 global.faceb = 'https://www.facebook.com/profile.php?id=100087710532984&mibextid=kFxxJD'
 global.paypal = 'https://www.paypal.me/EliasarMoncada72' 
 
 global.host = 'https://chat.whatsapp.com/GQ82mPnSYnm0XL2hLPk7FV' //Infinity-host
 global.nna = 'https://whatsapp.com/channel/0029VadnbrgBVJlB50Se1n0j' //Update 
-global.nn = 'https://chat.whatsapp.com/JHnIQUdCGBHHsA6naIGjHG' //𝐘𝐮𝐆𝐢-𝐁𝐎𝐓
+global.nn = 'https://chat.whatsapp.com/JHnIQUdCGBHHsA6naIGjHG' //WIBE-𝐁𝐎𝐓
 global.nn2 = 'https://chat.whatsapp.com/JHnIQUdCGBHHsA6naIGjHG' //Loli & Nova
 global.nn3 = 'https://chat.whatsapp.com/JHnIQUdCGBHHsA6naIGjHG' //Grupo de Colaboracion
 global.nn4 = 'https://chat.whatsapp.com/JHnIQUdCGBHHsA6naIGjHG' // Grupo COL 2
 global.nn5 = 'https://chat.whatsapp.com/JHnIQUdCGBHHsA6naIGjHG' //Grupo COL 3
 global.nn6 = 'https://chat.whatsapp.com/JHnIQUdCGBHHsA6naIGjHG' //test
 global.nn7 = 'https://chat.whatsapp.com/GFgaQyuU6Ux92CZ6WkrJV3' //Grupo ayuda sobre el bot
-global.nn8 = 'https://chat.whatsapp.com/JHnIQUdCGBHHsA6naIGjHG' //enlace YuGi-BOT
+global.nn8 = 'https://chat.whatsapp.com/JHnIQUdCGBHHsA6naIGjHG' //enlace WIBE-BOT
 global.multi = 'https://chat.whatsapp.com/CBY978TEw5N10tRhQiapZV' //Grupo náufrazapp
 global.nna2 = 'Em4Byf4w5VgHObPvZQlfnM'
 global.n2 = "https://whatsapp.com/channel/0029VadnbrgBVJlB50Se1n0j"
