@@ -1,5 +1,5 @@
-//Código editado i arreglado pot Eliasar YT
-//variable definida definida por Eliasar YT n2
+//Código editado i arreglado pot WINESONHO
+//variable definida definida por WIBESINHO n2
 const fs = require('fs') 
 const path = require('path')
 const chalk = require('chalk') 
@@ -18,7 +18,7 @@ global.wm = 'WIBE-𝐁𝐎𝐓[𝐌𝐃] 🌐'
 global.vs = '1.3'
 
 //Función beta : escribe el número que quiere que sea bot para que mande el Código de 8 digitos
-global.botNumberCode = "" //Ejemplo: +59309090909
+global.botNumberCode = "" //Ejemplo: +18293733257
 global.phoneNumber = ""
 
 //---------[ FECHA/IDIOMAS ]---------
