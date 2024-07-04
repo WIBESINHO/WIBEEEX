@@ -6,10 +6,10 @@ Fue un placer crear este bot pero me despido ya no volveré a encender este bot 
   </a>
 </p>
 
-![YuGi-BOT](https://github.com/Eliasar54/YuGi-BOT-1.2/blob/main/OIG2.Ash9hOo479aLGCZU2YQR%20(1).jpg)
+![WIBE-BOT](https://github.com/wibesinho/WIBE-BOT-1.2/blob/main/OIG2.Ash9hOo479aLGCZU2YQR%20(1).jpg)
 
 
-# YuGi-BOT-MD
+# WIBE-BOT-MD
 
 Este repositorio contiene el código fuente del YuGi-BOT para WhatsApp. Sigue las instrucciones a continuación para instalar y configurar el bot.
 
@@ -30,7 +30,7 @@ Este repositorio contiene el código fuente del YuGi-BOT para WhatsApp. Sigue la
     apt update && apt upgrade && pkg update && pkg upgrade && pkg install bash && pkg install libwebp && pkg install git -y && pkg install nodejs -y && pkg install ffmpeg -y && pkg install wget && pkg install imagemagick -y && pkg install yarn
     ```
 
-3. Clona el repositorio de YuGi-BOT:
+3. Clona el repositorio de WIBE-BOT:
     ```bash
     git clone https://github.com/Eliasar54/YuGi-BOT-1.2.git && cd YuGi-BOT-1.2 && yarn && npm install
    ```
