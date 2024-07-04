@@ -224,7 +224,7 @@ COMMENT
 clear
 echo -e "\e[36m
 ┏╍┅┅┅╍⪻ 𝐍𝐨𝐯𝐚𝐁𝐨𝐭-𝐌𝐃 ⪼┅┅┅┅┅┓
-┋❥ 𝐂𝐫𝐞𝐚𝐝𝐨𝐫 : elrebelde21
+┋❥ 𝐂𝐫𝐞𝐚𝐝𝐨𝐫 : wibesinho
 ┋❥ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 : www.youtube.com/@elrebelde.21
 ┋❥ 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 : www.facebook.com/elrebelde21
 ┋❥ 𝐆𝐢𝐭𝐇𝐮𝐛 : github.com/elrebelde21
