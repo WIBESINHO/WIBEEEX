@@ -365,7 +365,7 @@ contextInfo:{
 forwardedNewsletterMessageInfo: { 
 newsletterJid: '120363295950653343@newsletter', 
 serverMessageId: '', 
-newsletterName: 'YUGI-BOT' }, 
+newsletterName: 'WIBESINHO-BOT' }, 
 forwardingScore: 9999999,  
 isForwarded: true,    
 mentionedJid:[m.sender],  
@@ -392,7 +392,7 @@ contextInfo:{
 forwardedNewsletterMessageInfo: { 
 newsletterJid: '120363295950653343@newsletter', 
 serverMessageId: '', 
-newsletterName: 'YUGI-BOT' }, 
+newsletterName: 'WIBESINHO-BOT' }, 
 forwardingScore: 9999999,  
 isForwarded: true,   
 mentionedJid:[m.sender],  
@@ -420,7 +420,7 @@ contextInfo:{
 forwardedNewsletterMessageInfo: { 
 newsletterJid: '120363295950653343@newsletter', 
 serverMessageId: '', 
-newsletterName: 'YUGI-BOT' }, 
+newsletterName: 'WIBESINHO-BOT' }, 
 forwardingScore: 9999999,  
 isForwarded: true,   
 mentionedJid:[m.sender],  
@@ -448,7 +448,7 @@ contextInfo:{
 forwardedNewsletterMessageInfo: { 
 newsletterJid: '120363295950653343@newsletter', 
 serverMessageId: '', 
-newsletterName: 'YUGI-BOT' }, 
+newsletterName: 'WIBESINHO-BOT' }, 
 forwardingScore: 9999999,  
 isForwarded: true,   
 mentionedJid:[m.sender],  
@@ -476,7 +476,7 @@ contextInfo:{
 forwardedNewsletterMessageInfo: { 
 newsletterJid: '120363295950653343@newsletter', 
 serverMessageId: '', 
-newsletterName: 'YUGI-BOT' }, 
+newsletterName: 'WIBESINHO-BOT' }, 
 forwardingScore: 9999999,  
 isForwarded: true,   
 mentionedJid:[m.sender],  
@@ -547,7 +547,7 @@ sock.sendMessage(anu.id, { text: `${lenguaje['smsWel7']()} ${lenguaje['smsWel'](
 forwardedNewsletterMessageInfo: { 
 newsletterJid: '120363295950653343@newsletter', 
 serverMessageId: '', 
-newsletterName: 'YUGI-BOT' }, 
+newsletterName: 'WIBESINHO-BOT' }, 
 forwardingScore: 9999999,
 isForwarded: true, 
 mentionedJid:[num],
@@ -577,7 +577,7 @@ contextInfo:{
 forwardedNewsletterMessageInfo: { 
 newsletterJid: '120363295950653343@newsletter', 
 serverMessageId: '', 
-newsletterName: 'YUGI-BOT' }, 
+newsletterName: 'WIBESINHO-BOT' }, 
 forwardingScore: 9999999,
 isForwarded: true,  
 mentionedJid:[num],
@@ -603,7 +603,7 @@ sock.sendMessage(anu.id, { text: `${pickRandom(['[ NUEVO ADMINS ]\n\n', 'Hey'])}
  forwardedNewsletterMessageInfo: { 
 newsletterJid: '120363295950653343@newsletter', 
 serverMessageId: '', 
-newsletterName: 'YUGI-BOT' }, 
+newsletterName: 'WIBESINHO-BOT' }, 
 forwardingScore: 9999999,
 isForwarded: true, 
  mentionedJid: [num, usuario],
@@ -624,7 +624,7 @@ sock.sendMessage(anu.id, { text: `@${name.split("@")[0]} ${pickRandom(['Joderte 
  forwardedNewsletterMessageInfo: { 
 newsletterJid: '120363295950653343@newsletter', 
 serverMessageId: '', 
-newsletterName: 'YUGI-BOT' }, 
+newsletterName: 'WIBESINHO-BOT' }, 
 forwardingScore: 9999999,
 isForwarded: true, 
  mentionedJid:[num, usuario],
@@ -657,7 +657,7 @@ font: 'block',
 align: 'center',
 colors: ['yellow', 'red']
 })
-say(`bot creado por\nEliasar YT`, {
+say(`bot creado por\@winesonho_01`, {
 font: 'console',
 gradient: ['blue', 'magenta']
 })
